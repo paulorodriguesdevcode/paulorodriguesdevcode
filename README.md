@@ -1,14 +1,29 @@
-<h1 align="center">Paulo Rodrigues</h1>
-<h3 align="center">Senior Backend Engineer — Node.js · NestJS · TypeScript</h3>
+<div align="center">
 
-<p align="center">
-  I design and run multi-tenant SaaS systems in production, and I build my portfolio the same way I build production code — verified, tested, and documented, not just demoed.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Senior+Backend+Engineer;Node.js+%2F+NestJS+%2F+TypeScript;Building+multi-tenant+SaaS+in+production" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paulo-rodrigues-61a26898/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/paulorodriguesdevcode"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/build-passing-2ea44f?style=flat-square">
+<img src="https://img.shields.io/badge/focus-backend%20systems-58A6FF?style=flat-square">
+<img src="https://img.shields.io/badge/ships-tested%20%26%20documented-orange?style=flat-square">
+
+</div>
+
+---
+
+### `whoami`
+
+I design and run multi-tenant SaaS systems in production, and I build my portfolio the same way — verified, tested, and documented, not just demoed.
+
+```ts
+const paulo = {
+  role: "Senior Backend Engineer",
+  stack: ["Node.js", "NestJS", "TypeScript", "MongoDB", "Next.js", "gRPC", "Docker"],
+  currentFocus: "evaluation-driven AI engineering",
+  philosophy: "if it isn't tested, it isn't done",
+};
+```
 
 ---
 
@@ -31,16 +46,17 @@
 
 | Project | What it demonstrates |
 |---|---|
-| **[nestjs-grpc-microservices](https://github.com/paulorodriguesdevcode/nestjs-grpc-microservices)** | Three NestJS services over gRPC + an HTTP API gateway, Prometheus/Grafana observability provisioned as code, one `docker compose up` — every claim in the README is something I actually ran and verified, not just described. |
-| **[osproservice-architecture](https://github.com/paulorodriguesdevcode/osproservice-architecture)** | Architecture write-up of a multi-tenant SaaS I've run in production since 2024 — tenant isolation as a layered guard chain, JWT + TOTP 2FA, and the trade-offs behind each decision. |
+| **[nestjs-grpc-microservices](https://github.com/paulorodriguesdevcode/nestjs-grpc-microservices)** | Three NestJS services over gRPC + an HTTP API gateway, Prometheus/Grafana observability provisioned as code, one `docker compose up` — every claim in the README is something actually run and verified, not just described. |
+| **[osproservice-architecture](https://github.com/paulorodriguesdevcode/osproservice-architecture)** | Architecture write-up of a multi-tenant SaaS running in production since 2024 — tenant isolation as a layered guard chain, JWT + TOTP 2FA, and the trade-offs behind each decision. |
 | **[sarasabara-architecture](https://github.com/paulorodriguesdevcode/sarasabara-architecture)** | A second production system: scheduled engagement classification instead of read-time computation, a small-group-to-church conversion funnel modeled as first-class state, and a cached, rate-limited sync against a third-party LMS. |
 | **[rod-lint](https://www.npmjs.com/package/rod-lint)** | Published npm package — ESLint 9 flat-config presets, each one tested through ESLint's own `Linter` API (not just asserted on shape), CI on every push. |
-| **[sermon-cutter](https://github.com/paulorodriguesdevcode/sermon-cutter)** | An AI pipeline with an actual evaluation harness: deterministic schema/timing checks plus an LLM-as-judge quality gate that caught a real regression (a translation pass that silently turned a crafted hook into a copy-pasted first sentence) before it ever shipped. |
+| **[sermon-cutter](https://github.com/paulorodriguesdevcode/sermon-cutter)** | An AI pipeline with an actual evaluation harness: deterministic schema/timing checks plus an LLM-as-judge quality gate that caught a real regression before it ever shipped. |
 
 ---
 
-### Currently
+<div align="center">
 
-- 🔭 Designing and maintaining production backend systems — Node.js, NestJS, MongoDB, Next.js
-- 🧪 Focused on evaluation-driven AI engineering: measuring whether an LLM-backed feature is actually correct, not just whether it runs
-- 🌎 Open to senior backend / full-stack remote roles, internationally
+<a href="https://www.linkedin.com/in/paulo-rodrigues-61a26898/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/paulorodriguesdevcode"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
