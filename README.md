@@ -4,9 +4,9 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/build-passing-2ea44f?style=flat-square">
-<img src="https://img.shields.io/badge/focus-backend%20systems-58A6FF?style=flat-square">
-<img src="https://img.shields.io/badge/ships-tested%20%26%20documented-orange?style=flat-square">
+<a href="https://github.com/paulorodriguesdevcode/rod-lint/actions/workflows/ci.yml"><img src="https://github.com/paulorodriguesdevcode/rod-lint/actions/workflows/ci.yml/badge.svg" alt="rod-lint CI"></a>
+<a href="https://github.com/paulorodriguesdevcode/sermon-cutter/actions/workflows/ci.yml"><img src="https://github.com/paulorodriguesdevcode/sermon-cutter/actions/workflows/ci.yml/badge.svg" alt="sermon-cutter CI"></a>
+<a href="https://www.npmjs.com/package/rod-lint"><img src="https://img.shields.io/npm/v/rod-lint?style=flat-square&label=rod-lint" alt="rod-lint on npm"></a>
 
 </div>
 
@@ -56,7 +56,7 @@ const paulo = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/paulo-rodrigues-61a26898/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/paulorodriguesdevcode/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/paulorodriguesdevcode"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 
 </div>
